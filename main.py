@@ -32,15 +32,18 @@ TARGETS = {
     }
 }
 
-def clean_html_text(raw_html):
-    """Strips layout structures and sanitizes strings for structural analysis."""
-    if not raw_html:
+def clean_html_text(raw_text):
+    """Strips layout structures while preserving massive long-form text blocks."""
+    if not raw_text:
         return ""
-    text = html.unescape(raw_html)
+    text = html.unescape(raw_text)
+    # Convert paragraph ends and breaks into structural newlines for readability
     text = re.sub(r'(</tr>|</li>|<\/p>|<br\s*\/?>)', '\n', text)
+    # Aggressively strip remaining HTML tags
     text = re.compile(r'<[^>]+>').sub('', text)
+    # Normalize spacing while keeping intentional line breaks
     text = re.sub(r'[ \t]+', ' ', text)
-    text = re.sub(r'\n\s*\n+', '\n', text)
+    text = re.sub(r'\n\s*\n+', '\n\n', text)
     return text.strip()
 
 def fetch_payload(url):
@@ -67,14 +70,22 @@ def parse_and_normalize(raw_xml, institution):
         for el in items:
             title_node = el.find("title")
             link_node = el.find("link")
-            desc_node = el.find("description") or el.find("summary")
             pub_date_node = el.find("pubDate") or el.find("updated")
             
+            # Deep CDATA & Content extraction
+            desc_text = ""
+            # Some feeds put full articles in content:encoded instead of description
+            content_node = el.find("{http://purl.org/rss/1.0/modules/content/}encoded")
+            desc_node = el.find("description") or el.find("summary")
+            
+            if content_node is not None and content_node.text:
+                desc_text = content_node.text
+            elif desc_node is not None and desc_node.text:
+                desc_text = desc_node.text
+                
             raw_title = title_node.text.strip() if title_node is not None and title_node.text else "N/A"
             clean_title = html.unescape(raw_title)
-            
-            raw_desc = desc_node.text.strip() if desc_node is not None and desc_node.text else ""
-            clean_desc = clean_html_text(raw_desc)
+            clean_desc = clean_html_text(desc_text)
             
             url = link_node.text.strip() if link_node is not None and link_node.text else "N/A"
             
@@ -126,15 +137,22 @@ def main():
             if category_name not in daily_payload[institution]:
                 daily_payload[institution][category_name] = []
                 
-            existing_signatures = {record["id"] for record in daily_payload[institution][category_name]}
+            existing_list = daily_payload[institution][category_name]
+            existing_signatures = {record["id"] for record in existing_list}
+            
+            new_entries = []
             novel_write_count = 0
             
             for entry in dataset:
                 if entry["id"] not in existing_signatures:
-                    daily_payload[institution][category_name].append(entry)
+                    new_entries.append(entry)
                     novel_write_count += 1
             
-            print(f"      Log: Storage committed with +{novel_write_count} novel entries.")
+            # FORCE NEW ENTRIES TO THE TOP OF THE JSON ARRAY
+            if new_entries:
+                daily_payload[institution][category_name] = new_entries + existing_list
+            
+            print(f"      Log: Storage committed with +{novel_write_count} novel entries prepended to top.")
 
     try:
         with open(target_filepath, "w", encoding="utf-8") as f:
