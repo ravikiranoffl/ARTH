@@ -2,6 +2,76 @@
     "rbi": {
         "Press Releases": [
             {
+                "id": "rbi_21027356",
+                "title": "RBI Issues Amendment Directions on ‘Suspected Money Mule Accounts to Prevent Cyber-enabled Financial Frauds’",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2520734910",
+                "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 30, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64061",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2614543431",
+                "title": "Auction of State Government Securities",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64060",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_450958029",
+                "title": "Thirty First Meeting of the Standing Advisory Committee (SAC) to Review the Flow of Credit to the MSME Sector in Kolkata on November 27, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64059",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3813976000",
+                "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64058",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1985097227",
+                "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64057",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2108131211",
+                "title": "Government Stock - Full Auction Results",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64056",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4203133509",
+                "title": "Government Stock - Auction Results: Cut-off",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64055",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3889394253",
+                "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on November 27, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64054",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_329409632",
+                "title": "Result of Underwriting Auction conducted on November 27, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64053",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
                 "id": "rbi_1457622377",
                 "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
                 "description": "",
@@ -73,6 +143,76 @@
             }
         ],
         "Speeches": [
+            {
+                "id": "rbi_734735601",
+                "title": "MSMEs as Catalysts for Building a Resilient and Inclusive Economy – Address by Shri Sanjay Malhotra, Governor at the SME Finance & Investment Summit on November 27, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1593",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2572129455",
+                "title": "Government Securities Market: Deepening Liquidity, Broadening Participation and Strengthening Resilience – the Expanding Role of Primary Dealers - Address by Shri Rohit Jain, Deputy Governor at the Primary Dealers’ Association of India (PDAI) Seminar 2026 on November 23, 2026 in Mumbai -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1592",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2486373357",
+                "title": "Rebasing the Key Macro Series: From Better Measurement to Better Policy<sup>1</sup> - Inaugural Address by Dr. Poonam Gupta, Deputy Governor, at the ‘Data Users Conference on the new series of GDP, CPI and IIP’, Organised by the Ministry of Statistics and Programme Implementation (MoSPI) in Mumbai on November 23, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1591",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3544651461",
+                "title": "The Customer at the Centre: Building a Responsible, Resilient and Sustainable Microfinance Sector - Keynote address<sup>[1]</sup> delivered by Shri Shirish Chandra Murmu, Deputy Governor, at MFIN event in Mumbai, on November 13, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1590",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2926517476",
+                "title": "RBI Podcast: From Paisa to Policy | Understanding Central Bank Digital Currency -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1588",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_844941313",
+                "title": "Leading Today, Building for Tomorrow - Special address by Shri Swaminathan J, Deputy Governor at the Leadership Conference of Indian Bank in Chennai on October 23, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1587",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1808529674",
+                "title": "Economic Resilience, Thinner Buffers, Emerging Risks Globally: Where Does India Stand?<sup>[1]</sup> - Address by Dr. Poonam Gupta, Deputy Governor, Reserve Bank of India, at the Business Standard BFSI Insight Summit -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1586",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1989394661",
+                "title": "गवर्नर का स्वागत संबोधन - RBI के डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का  उद्घाटन -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1585",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1919612847",
+                "title": "Growth with Responsibility: The Next Balance Sheet - Special Address by Shri Swaminathan J, Deputy Governor, Reserve Bank of India at the FE Modern BFSI Summit 2026 in Mumbai on October 15, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1584",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2429120429",
+                "title": "Edited Transcript of the Reserve Bank of India’s Post-Monetary Policy Press Conference: October 7, 2026 (Wednesday) -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1583",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
             {
                 "id": "rbi_3825311942",
                 "title": "Government Securities Market: Deepening Liquidity, Broadening Participation and Strengthening Resilience – the Expanding Role of Primary Dealers - Address by Shri Rohit Jain, Deputy Governor at the Primary Dealers’ Association of India (PDAI) Seminar 2026 on November 23, 2026 in Mumbai -",
@@ -146,6 +286,76 @@
         ],
         "Notifications": [
             {
+                "id": "rbi_2453289270",
+                "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3251087221",
+                "title": "Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13767&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_913536972",
+                "title": "Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13766&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1563012713",
+                "title": "Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13765&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2793445386",
+                "title": "Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13764&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4135983765",
+                "title": "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13763&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1991616073",
+                "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2367818069",
+                "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2088433978",
+                "title": "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13760&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1987254781",
+                "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13759&Mode=0",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
                 "id": "rbi_75460096",
                 "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
                 "description": "",
@@ -218,6 +428,76 @@
         ],
         "Tenders": [
             {
+                "id": "rbi_3467194440",
+                "title": "Design, Supply, Installation, Testing & Commissioning (DSITC) of Stairlifts at Main Office Building, Kolkata",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26270",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1191820508",
+                "title": "Minutes of Pre-Bid Meeting - Design, Supply, Installation, Testing and Commissioning (DSITC) of X-ray Baggage Inspection System for Bank’s Main Office Building, RBI, Chennai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26269",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2858623247",
+                "title": "Minutes of Pre-Bid Meeting - DSITC of IPCCTV Camera System at Reserve Bank of India Staff Quarters at Besant Nagar, Chennai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26268",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2747258269",
+                "title": "Minutes of Pre-Bid Meeting - DSITC of IPCCTV Camera System at Reserve Bank of India Staff Quarters at KK Nagar, Chennai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26267",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4148598698",
+                "title": "Renovation of Toilet Blocks at Ground Floor (CVPS and Vault area), Main Office Building, RBI, Lucknow",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26266",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_481426297",
+                "title": "SITC of Guard Patrolling (Guard Tour) System at RBI New Delhi",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26265",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4184188413",
+                "title": "Providing Temporary Civil Infrastructure for Dispensary, Ground Floor, Annex Building, MOB, RBI, Ahmedabad",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26264",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3429385298",
+                "title": "Minutes of Pre-Bid Meeting - Providing Catering Facility for RBI Staff at Different Office Locations in Navi Mumbai (i) Staff Canteen, Annex Building, RBI Belapur; (ii) ZTC (Zonal Training Centre) Lounge and Dining Room; and (iii) Executive Visiting Officers Flat (EVOF)/Visiting Officers Flat (VOF)/Transit Holiday Home (THH) – items (ii) and (iii) in the premises of RBI Officers’ Quarters, Sector 5A, Kharghar, Navi Mumbai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26263",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2503715288",
+                "title": "Providing and laying cement concrete pavement (Vehicle Parking Area) at Main Office Building, RBI, Ahmedabad",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26262",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3754559026",
+                "title": "Limited e-Tender for Supply and Installation of 8 Nos. of B1 Win Laptops at Reserve Bank of India, DCM, CO, Mumbai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26261",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
                 "id": "rbi_2520181622",
                 "title": "Supply, Installation, Testing and Commissioning of File Compactor Storage System at RBI Dehradun",
                 "description": "",
@@ -289,6 +569,76 @@
             }
         ],
         "Publications": [
+            {
+                "id": "rbi_3573975236",
+                "title": "Certificates of Authorisation issued by the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 for Setting up and Operating Payment System in India",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=12043",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4280888661",
+                "title": "Half Yearly Report on Management of Foreign Exchange Reserves: April - September 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24125",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1627586630",
+                "title": "States: West   Bengal, All-India",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24124",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1536685581",
+                "title": "States: Telangana,   Tripura, Uttar Pradesh, Uttarakhand",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24123",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2249394659",
+                "title": "States: Punjab, Rajasthan, Sikkim,   Tamil Nadu",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24122",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_649683961",
+                "title": "States: Madhya Pradesh,  Maharashtra, Mizoram, Odisha",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24121",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_1051057235",
+                "title": "States: Himachal Pradesh,  Jharkhand, Karnataka, Keralam",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24120",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_4259172393",
+                "title": "States: Chhattisgarh,  Goa, Gujarat, Haryana",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24119",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_3861932102",
+                "title": "States: Andhra Pradesh,  Arunachal Pradesh, Assam, Bihar",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24118",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "rbi_2163862474",
+                "title": "States: West Bengal, All-India",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24117",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
             {
                 "id": "rbi_2081895339",
                 "title": "Half Yearly Report on Management of Foreign Exchange Reserves: April - September 2026",
@@ -577,6 +927,146 @@
     },
     "pib": {
         "Finance": [
+            {
+                "id": "pib_2686899946",
+                "title": "MWCD and MSDE to jointly launch NAVYA 2.0 in Haridwar on 28 November 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342851",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2686899946",
+                "title": "MWCD and MSDE to jointly launch NAVYA 2.0 in Haridwar on 28 November 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342849",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_1776555285",
+                "title": "Secretary, DoLR Reviews Implementation of WDC-PMKSY 2.0 and World Bank-Assisted REWARD Programme in Odisha",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342830",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_913288615",
+                "title": "NHRC, India takes suo motu cognizance of the reported continuous rise in TB cases in Bhopal, Madhya Pradesh amidst Tuberculosis Free India campaign",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342795",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_657125884",
+                "title": "NHRC, India takes suo motu cognizance of the reported suicide of two prisoners within a span of seven days at two jails in Lucknow, Uttar Pradesh",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342793",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2891980908",
+                "title": "Prime Minister meets Foreign Ministers and Heads of Delegation of IORA Member-States in New Delhi",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342790",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_4035989703",
+                "title": "Union Health Secretary Smt. Punya Salila Srivastava Inaugurates Advanced Spectral CT Facility at NIMHANS, Bengaluru; Reviews Key Mental Healthcare and Brain Health Initiatives",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342789",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2690016606",
+                "title": "At 57th IFFI, a Story of How the Entire Crew of ‘The River Train’ Stepped into a Child’s World",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342773",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_876701682",
+                "title": "‘I Came as a Jury Member, but Became a Student of Cinema’: Aanand L Rai on the Golden Peacock Jury Experience at 57th IFFI",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342762",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_3263239576",
+                "title": "Ministry of Women and Child Development marks two years of 'Bal Vivah Mukt Bharat' Campaign",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342751",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_739412884",
+                "title": "Central Board of Indirect Taxes and Customs (CBIC) wins Bronze Medal for display at India International Trade Fair (IITF) 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342747",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2027297927",
+                "title": "Dr. Ambedkar Medical Aid Scheme Provides Financial Assistance of up to ₹ 3.50 Lakh to SC and ST Patients for Treatment of Life-Threatening Diseases",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342749",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_925572163",
+                "title": "‘The Villain Is Not Always an Individual, but a Reflection of Society’: Karthik Subbaraj at 57th IFFI",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342744",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_1758772516",
+                "title": "Filmmakers Share the Creative Journeys behind The Kerala Story 2 : Goes Beyond and Demography Is Destiny at IFFI 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342737",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_1855904902",
+                "title": "Portuguese Film ‘Come With Me’ Explores Friendship and the Shared Experience of Cinema at 57th IFFI",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342734",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_70820642",
+                "title": "Virtual Bharat Explores India’s Diverse Storytelling Traditions and the Global Power of Indian Cinema at IFFI 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342724",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_523114270",
+                "title": "MoSJE Pavilion at 45th IITF 2026 Records Sales of Approximately ₹2.07 Crore As on November 26; Strong Public Response Boosts Artisans’ Livelihoods",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342712",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2277284177",
+                "title": "Second Regional Conference on Jal Jeevan Mission 2.0 concludes at Agra, Emphasising Sustainability, Community Ownership and Gram Panchayat-led Water Governance",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342708",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2056461627",
+                "title": "Direct Recruitment to various posts in Government of India",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342701",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
+            {
+                "id": "pib_2300262164",
+                "title": "DELIVERY OF VINDHYAGIRI DESIG (Y3024) (PROJECT 17A INDIGENOUS ADVANCED STEALTH FRIGATE)",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342700",
+                "published_at": "2026-11-27T22:27:05.689131+05:30"
+            },
             {
                 "id": "pib_3779485633",
                 "title": "WOAH PVS Mission Begins Evaluation of India's Aquatic Animal Health Services",
