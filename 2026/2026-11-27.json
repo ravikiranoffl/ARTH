@@ -1,0 +1,722 @@
+{
+    "rbi": {
+        "Press Releases": [
+            {
+                "id": "rbi_1457622377",
+                "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1148055744",
+                "title": "Reserve Money and Money Supply for the fortnight ended on November 15, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64050",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3657400736",
+                "title": "Result: First Conversion/Switch Auction of State Government Securities",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64049",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3179817145",
+                "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1194104793",
+                "title": "Result of the Second Overnight Variable Rate Repo (VRR) auction held on November 26, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64047",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3747957189",
+                "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2634886707",
+                "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on November 26, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64045",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2761052334",
+                "title": "Money Market Operations as on November 25, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64044",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2292770103",
+                "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3707632148",
+                "title": "47th Half-Yearly Report on Management of Foreign Exchange Reserves: April – September 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64042",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ],
+        "Speeches": [
+            {
+                "id": "rbi_3825311942",
+                "title": "Government Securities Market: Deepening Liquidity, Broadening Participation and Strengthening Resilience – the Expanding Role of Primary Dealers - Address by Shri Rohit Jain, Deputy Governor at the Primary Dealers’ Association of India (PDAI) Seminar 2026 on November 23, 2026 in Mumbai -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1592",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2663056869",
+                "title": "Rebasing the Key Macro Series: From Better Measurement to Better Policy<sup>1</sup> - Inaugural Address by Dr. Poonam Gupta, Deputy Governor, at the ‘Data Users Conference on the new series of GDP, CPI and IIP’, Organised by the Ministry of Statistics and Programme Implementation (MoSPI) in Mumbai on November 23, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1591",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_305290885",
+                "title": "The Customer at the Centre: Building a Responsible, Resilient and Sustainable Microfinance Sector - Keynote address<sup>[1]</sup> delivered by Shri Shirish Chandra Murmu, Deputy Governor, at MFIN event in Mumbai, on November 13, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1590",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_730079530",
+                "title": "RBI Podcast: From Paisa to Policy | Understanding Central Bank Digital Currency -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1588",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_4104593333",
+                "title": "Leading Today, Building for Tomorrow - Special address by Shri Swaminathan J, Deputy Governor at the Leadership Conference of Indian Bank in Chennai on October 23, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1587",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3492108638",
+                "title": "Economic Resilience, Thinner Buffers, Emerging Risks Globally: Where Does India Stand?<sup>[1]</sup> - Address by Dr. Poonam Gupta, Deputy Governor, Reserve Bank of India, at the Business Standard BFSI Insight Summit -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1586",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1230668630",
+                "title": "गवर्नर का स्वागत संबोधन - RBI के डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का  उद्घाटन -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1585",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1621004102",
+                "title": "Growth with Responsibility: The Next Balance Sheet - Special Address by Shri Swaminathan J, Deputy Governor, Reserve Bank of India at the FE Modern BFSI Summit 2026 in Mumbai on October 15, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1584",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_4221290318",
+                "title": "Edited Transcript of the Reserve Bank of India’s Post-Monetary Policy Press Conference: October 7, 2026 (Wednesday) -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1583",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1478510520",
+                "title": "Preserving Financial Stability in an Evolving World - Special Address by Shri Sanjay Malhotra, Governor, Reserve Bank of India, at the Fifth Kautilya Economic Conclave on October 3, 2026 -",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_SpeechesView.aspx?id=1582",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ],
+        "Notifications": [
+            {
+                "id": "rbi_75460096",
+                "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2605983061",
+                "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1479292123",
+                "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1510297433",
+                "title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1163784876",
+                "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_881666087",
+                "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3919907089",
+                "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1108579783",
+                "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_713988401",
+                "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2005313445",
+                "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ],
+        "Tenders": [
+            {
+                "id": "rbi_2520181622",
+                "title": "Supply, Installation, Testing and Commissioning of File Compactor Storage System at RBI Dehradun",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26247",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1964244156",
+                "title": "Minutes of Pre-Bid Meeting - General repairs and external repainting of buildings in Bank’s Main Office Premises, Thiruvananthapuram",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26246",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3324501778",
+                "title": "Supply and Installation of 3 nos. of ‘B2-Mac’ Laptops, 1 nos of ‘B3 iPad’ Tablet, 1 nos of ‘B2-Win Dell Pro 13 plus’ laptop and 1 nos of ‘B2-Win-Lenovo ThinkPad X13 (AMD)’ laptop, Chennai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26245",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1731581326",
+                "title": "General exterior water repellent coating to stone cladding, repairs and repainting at MOB, RBI, New Delhi",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26244",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_472308308",
+                "title": "Limited e-Tender for Supply and Installation of 22 No. B1 Win - Basic Windows OS Based Laptops at Reserve Bank of India, Regional Office, Jaipur",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26243",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1430890089",
+                "title": "Minutes of Pre-bid Meeting - Renovation of Auditorium Stage & Green Rooms at The Reserve Bank Staff College, Chennai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26242",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2539110624",
+                "title": "Awarding Contract for Integrated Facility Management Services (IFMS) at Main Office Premises and  Indian Government (IG) Mint of Reserve Bank of India, Hyderabad, Telangana",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26241",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_3245746520",
+                "title": "Supply and Installation of 25 Nos. Basic All-in-One (AIO) Desktops at Reserve Bank of India, Bhopal",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26240",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2396460259",
+                "title": "Notice for Pre-Bid Meeting: Expansion of the Existing Panel of Survey Agencies for conducting Household Surveys, Mumbai",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26239",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2489155413",
+                "title": "Supply and Installation of 31 B1-Mac (Basic Mac OS Based) Laptops at Reserve Bank of India, Bhopal",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/BS_ViewTenders.aspx?id=26238",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ],
+        "Publications": [
+            {
+                "id": "rbi_2081895339",
+                "title": "Half Yearly Report on Management of Foreign Exchange Reserves: April - September 2026",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24125",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1817511683",
+                "title": "States: West   Bengal, All-India",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24124",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1099083198",
+                "title": "States: Telangana,   Tripura, Uttar Pradesh, Uttarakhand",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24123",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1093872209",
+                "title": "States: Punjab, Rajasthan, Sikkim,   Tamil Nadu",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24122",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_815087570",
+                "title": "States: Madhya Pradesh,  Maharashtra, Mizoram, Odisha",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24121",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2825938616",
+                "title": "States: Himachal Pradesh,  Jharkhand, Karnataka, Keralam",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24120",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_828133016",
+                "title": "States: Chhattisgarh,  Goa, Gujarat, Haryana",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24119",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_2415754368",
+                "title": "States: Andhra Pradesh,  Arunachal Pradesh, Assam, Bihar",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24118",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1774305514",
+                "title": "States: West Bengal, All-India",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24117",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "rbi_1247627613",
+                "title": "States: Telangana, Tripura, Uttar Pradesh, Uttarakhand",
+                "description": "",
+                "url": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=24116",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ]
+    },
+    "sebi": {
+        "Updates": [
+            {
+                "id": "sebi_2618352068",
+                "title": "Ex-Parte Interim Order in the matter of Le Lavoir Limited and Others",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/ex-parte-interim-order-in-the-matter-of-le-lavoir-limited-and-others_105966.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3546889345",
+                "title": "Adjudication Order in the matter of Vanita Krishnakant Gandhi",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-vanita-krishnakant-gandhi_105859.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1889757588",
+                "title": "Adjudication Order in the matter of investigation in the Financial Statements of Lloyds Enterprises Limited",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-investigation-in-the-financial-statements-of-lloyds-enterprises-limited_105858.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2534701988",
+                "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+                "description": "",
+                "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2610075362",
+                "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+                "description": "",
+                "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_4002522875",
+                "title": "Caution to investors regarding impersonation of SEBI registered intermediaries on closed user groups of social media platforms",
+                "description": "",
+                "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3976730249",
+                "title": "Advisory Regarding Unregulated Pre-listing Premium often called as Grey Market Premium (GMP) for Upcoming Initial Public Offers (IPOs)",
+                "description": "",
+                "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3488275373",
+                "title": "Release Order – Unickon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Unickon Securities Pvt. Ltd.: under Certificate No. 5163 of 2022.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-certificate-no-5163-of-2022-_105925.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1265816478",
+                "title": "Release Order – Unicon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Ashutosh Paper Mills Limited: under Certificate No. 3834 of 2021.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2805020806",
+                "title": "Notice of Demand under Recovery Certificate number 9326 of 2026 dated November 20, 2026, issued to Meenu Sharma [Defaulter] (PAN: KXYPS9957R) in the matter of Unregistered Investment Advisory Services by Meenu Sharma, Proprietor of Commodity Pandit.: under Recovery Certificate No. 9326 of 2026.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9326-of-2026-dated-november-20-2026-issued-to-meenu-sharma-defaulter-pan-kxyps9957r-in-the-matter-of-unregistered-investment-advisory-services-_105921.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_47509589",
+                "title": "Completion of Recovery Certificate No. 5163 of 2022 dated July 15, 2022 issued to Unickon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Unickon Securities Pvt. Ltd.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-5163-of-2022-dated-july-15-2022-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105919.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1606128667",
+                "title": "Completion of Recovery Certificate No. 3834 of 2021 dated June 16, 2021 issued to Unicon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Ashutosh Paper Mills Limited.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-3834-of-2021-dated-june-16-2021-issued-to-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-_105917.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2158451780",
+                "title": "Notices of Attachment of Demat Accounts and Mutual Fund Folios with AP No. 15894 of 2026 dated November 19, 2026 against Paresh Mulji Kariya (PAN – AAEPK0469M)  in the matter of Anugrah Stock and Broking Private Limited under RC No. 9295 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15894-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-brok-_105962.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1560261404",
+                "title": "Notices of Attachment of Bank accounts with AP No. 15893 of 2026 dated November 19, 2026 against Paresh Mulji Kariya (PAN – AAEPK0469M) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9295 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15893-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-broking-private-limited-under-_105960.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3882178263",
+                "title": "Notices of Attachment of Demat Accounts and Mutual Fund Folios with AP No. 15890 of 2026 dated November 19, 2026 against Om Sri Sai Investments (PAN – AADFO8242K) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9293 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15890-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-br-_105958.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_462735612",
+                "title": "Notices of Attachment of Bank accounts with AP No. 15889 of 2026 dated November 19, 2026 against Om Sri Sai Investments (PAN – AADFO8242K) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9293 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15889-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-broking-private-limited-un-_105956.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_4059944691",
+                "title": "Notices of Attachment of Demat Accounts and Mutual Fund Folios with AP No. 15892 of 2026 dated November 19, 2026 against Anugrah Stock and Broking Private Limited (PAN – AAACW2920N) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9292 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15892-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-a-_105954.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1106919873",
+                "title": "Notices of Attachment of Bank accounts with AP No. 15891 of 2026 dated November 19, 2026 against Anugrah Stock and Broking Private Limited (PAN – AAACW2920N) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9292 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15891-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-anugrah-stock-and-broking-_105952.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2626966998",
+                "title": "Adjudication Order in the matter of Intelligent Money Managers Private Limited",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105879.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2709686817",
+                "title": "SEBI hosts IOSCO’s Asia-Pacific Regional Committee Regulatory Roundtable on Market Infrastructure Institutions",
+                "description": "",
+                "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3450925017",
+                "title": "Appeal No. 7166 of 2026 filed by Arjun singh",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_4074478263",
+                "title": "Appeal No. 7165 of 2026 filed by Advocate Shashi Narayan Gupta",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_769162658",
+                "title": "Appeal No. 7164 of 2026 filed by Dilip Srivastava",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3290268653",
+                "title": "Appeal No. 7163 of 2026 filed by Ravi",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_3578927524",
+                "title": "Appeal No. 7162 of 2026 filed by N.Padmavathi",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1568425408",
+                "title": "Appeal No. 7161 of 2026 filed by Ravi",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1703289347",
+                "title": "Appeal No. 7155  of 2026 filed by Heera Lal Khatri",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_2663382390",
+                "title": "Cancellation of Recovery Certificate No. 4948 of 2022 issued against L Muneashwari (ABWPL2445F), L Naga Rama Krishna (ADRPL5494M) and M/s Kepler Information Systems Private Limited (AAECK5818R) in the matter of Bodhtree Consulting Limited",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105873.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1915633223",
+                "title": "Completion of Recovery Certificate No. 8735 of 2025 dated May 16, 2025, issued to Unickon Securities Pvt. Ltd [Defaulter] (PAN: AAPFS5325P) in the matter of Unickon Securities Pvt Ltd.",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105905.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "sebi_1200577936",
+                "title": "Notices of Attachment of Demat Accounts and Mutual Fund Folios with AP No. 15888 of 2026 dated November 17, 2026 against Sadhana Paresh Kariya (PAN – AJHPK6018N) in the matter of Anugrah Stock and Broking Private Limited under RC No. 9294 of 2026",
+                "description": "",
+                "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15888-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-bro-_105895.html",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ]
+    },
+    "pib": {
+        "Finance": [
+            {
+                "id": "pib_3779485633",
+                "title": "WOAH PVS Mission Begins Evaluation of India's Aquatic Animal Health Services",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342239",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_1485047149",
+                "title": "India Post Accelerates Its Transformation with ₹2,632 Crore Financial Outlay Following Cabinet Approval",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342219",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_645772539",
+                "title": "Through Aaryan’s Lens: Sreehari Haridas discusses mockumentary storytelling, personal influences and the making of his feature ‘Ajayante Maranam: Oru Case Study’",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342215",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_704569141",
+                "title": "India and UAE agree to accelerate co-development & co-production of next generation defence equipment at 14th JDCC meeting in Abu Dhabi",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342210",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_610877170",
+                "title": "Pension Reforms Division in Department of Financial Services tops Grievance Redressal Assessment & Index (GRAI) ranking in Group B Category by Department of Administrative Reforms and Public Grievances for October, 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342207",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2914885304",
+                "title": "Dr. Ambedkar Foundation Celebrates Constitution Day 2026; Reaffirms Commitment to Constitutional Values, Social Justice and Inclusive Democracy",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342209",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_4231955404",
+                "title": "Humane Character of the Story and Alignment with Gandhian Ideals Foremost Consideration for Evaluation: ICFT-UNESCO Gandhi Medal Jury Member Manouj Kadaamh",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342206",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_3218818999",
+                "title": "Decoding the Oscars: Natalie Wade Walks Filmmakers Through Submission Process and Global Opportunities at 57th IFFI",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342197",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2406361444",
+                "title": "PRESIDENT OF INDIA GRACES THE CONSTITUTION DAY CELEBRATIONS ORGANISED BY THE SUPREME COURT OF INDIA",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342198",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_912655171",
+                "title": "Union Minister of Finance & Corporate Affairs Smt. Nirmala Sitharaman concludes extensive pre-budget consultations for Union Budget 2027-28",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342200",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2119293828",
+                "title": "Office of PSA in collaboration with MEA, IISc, ORF and GIS to organise 3rd edition of Technology Dialogue focusing on Charting Technological Convergence from 30 November to 2 December 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342192",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2365084436",
+                "title": "Is Your Smartphone Controlling You? Tamil Thriller SCROLL Sparks a Digital Wake-Up Call at IFFI 2026",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342194",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_1554268007",
+                "title": "Department of Drinking Water and Sanitation, Ministry of Jal Shakti Organises the Second Regional Conference at Agra",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342186",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_1705908310",
+                "title": "Three Antiquities Repatriated from USA and Netherlands Handed Over to Tamil Nadu Police by ASI",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342181",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2964452113",
+                "title": "PRESIDENT OF INDIA TO VISIT KERALAM, MIZORAM AND NAGALAND FROM NOVEMBER 27 TO DECEMBER 2",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342175",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_2787176686",
+                "title": "Public Sector Banks (PSBs) grow stronger with prudent banking practices and strong underwriting capabilities",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342160",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_3739313705",
+                "title": "Ministry of Panchayati Raj observes Constitution Day; Panchayats and Rural Local Bodies across the country participate in Mass Readings of the Preamble in Local Languages",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342156",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_1123200251",
+                "title": "Union Minister Nitin Gadkari Announces National Highway Projects Worth ₹75,000 Crore for West Bengal",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342122",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_400000961",
+                "title": "Constitution Day 2026 Celebrated Across the Country with Enthusiasm and Wide Public Participation",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342098",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            },
+            {
+                "id": "pib_1455259650",
+                "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan releases final production estimates of major agricultural crops for 2025-26 and first advance estimates for the 2026-27 kharif season",
+                "description": "",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342093",
+                "published_at": "2026-11-27T06:37:50.721116+05:30"
+            }
+        ]
+    }
+}
